@@ -1,0 +1,1 @@
+Open Solution ReadDeviceToCloudMessages.sln and run.
